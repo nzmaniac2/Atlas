@@ -34,11 +34,11 @@ actions:
   - !appx: {name: 'Microsoft.Copilot*', type: family}
 
   # Other apps
-  - !appx: {name: 'Clipchamp.Clipchamp*', type: family}
+  # !appx: {name: 'Clipchamp.Clipchamp*', type: family}
   - !appx: {name: 'Disney.37853FC22B2CE*', type: family}
   - !appx: {name: 'SpotifyAB.SpotifyMusic*', type: family}
   - !appx: {name: 'Microsoft.549981C3F5F10*', type: family} # Cortana
-  - !appx: {name: 'Microsoft.XboxApp*', type: family} # Xbox Console Companion (deprecated)
+  # !appx: {name: 'Microsoft.XboxApp*', type: family} # Xbox Console Companion (deprecated)
   - !appx: {name: 'microsoft.windowscommunicationsapps*', type: family} # Mail and Calendar
   - !appx: {name: 'Microsoft.MSPaint*', type: family} # Paint 3D
   - !appx: {name: 'Microsoft.Getstarted*', type: family} # Tips (deprecated)
@@ -53,7 +53,7 @@ actions:
   - !appx: {name: 'Microsoft.GetHelp*', type: family}
   - !appx: {name: 'Microsoft.Microsoft3DViewer*', type: family}
   - !appx: {name: 'Microsoft.MicrosoftOfficeHub*', type: family}
-  - !appx: {name: 'Microsoft.MicrosoftSolitaireCollection*', type: family}
+  # !appx: {name: 'Microsoft.MicrosoftSolitaireCollection*', type: family}
   - !appx: {name: 'Microsoft.MicrosoftStickyNotes*', type: family}
   - !appx: {name: 'Microsoft.Office.OneNote*', type: family}
   - !appx: {name: 'Microsoft.People*', type: family}
